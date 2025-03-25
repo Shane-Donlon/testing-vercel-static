@@ -21,7 +21,7 @@
     "@astrojs/check": "^0.9.4",
     "@astrojs/vercel": "^8.1.2",
     "@builder.io/qwik": "^1.12",
-    "@qwikdev/astro": "https://pkg.pr.new/QwikDev/astro/@qwikdev/astro@4a2136989269657fde81ca89a02373d13a618d90",
+    "@qwikdev/astro": "https://pkg.pr.new/QwikDev/astro/@qwikdev/astro@c04c139a8a4795b3f0e32ca41c6016d80fe4d38b",
     "astro": "^5.1"
   },
   "devDependencies": {
